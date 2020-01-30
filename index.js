@@ -219,7 +219,7 @@ class ProjectManager extends Instructor {
     }
 
     debugsCode(student, subject) {
-        return `${this.name} debuges ${student.name}'s code on ${subject}`;
+        return `${this.name} debugs ${student.name}'s code on ${subject}`;
     }
 }
 
